@@ -1,2 +1,6 @@
-print("hello")
-print("hi")
+# print("hello")
+# print("hi")
+
+def encode(pw):
+
+
